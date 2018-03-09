@@ -5,7 +5,7 @@
 
 <!DOCTYPE html>
 <html>
-    <head><title>PHP Fundamentals - <?=$title?></title></head>
+    <head><title>PHP Fundamentals - <?=$title?></title></head> // prints
     <body><h1><?php echo $message?></h1></body>
 </html>
 
