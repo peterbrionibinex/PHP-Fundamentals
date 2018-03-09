@@ -1,21 +1,14 @@
-# PHP-Fundamentals
+# PHP-Related-Repository
 
-Contains all exercises made for the PHP Fundamentals Course by Jill Gundersen
+Contains all courses' exercises that I took in Pluralsight 
 
-Hope that this repository will serve as my reference in learning PHP stuffs.
+# List of all courses that I took for PHP track **:
 
-# List of Exercise Contents (**):
+1. PHP Fundamentals
+2. Object-oriented PHP: Essential Constructs
+3. Object-oriented PHP: Classical Inheritance Model
 
-1. Sample PHP Program
-2. Sample PHP Program with HTML code
-3. Booleans
-4. Constants and Variable
-5. Determine Type of Variables
-6. General Elements of PHP Program
-7. 
 
-Best regards,
-
-Peter Joshua Brion
+-- Peter Joshua Brion
 
 ** subject to change
