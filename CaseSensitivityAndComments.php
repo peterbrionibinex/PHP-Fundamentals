@@ -6,10 +6,21 @@
     /* multi line comment */
     
     $firstVariable = "Our first Variable\n"; //\n used for carriage return or new line
-    $firstvariable = "Really is it our first]\n";
+    $firstvariable = "Really is it our first\n"; //different variable name
     
-    echo $firstVariable;
-    echo $firstvariable;
+    /*
+        When declaring variables, make sure you properly
+        declare variable name because declaring variables
+        is case sensitve not unlike to classes and functions.
+    */
+    
+    echo $firstVariable; //prints the value of $firstVariable
+    echo $firstvariable; //prints the value of $firstvariable
+    
+    /*
+        Example of calling the class and functions without
+        case sensitivity
+    */
     
     class Company{
         
